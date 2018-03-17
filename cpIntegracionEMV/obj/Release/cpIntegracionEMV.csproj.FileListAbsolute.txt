@@ -1,0 +1,8 @@
+C:\workspace\VS\cpintegracion\cpIntegracionEMV\bin\Release\cpIntegracionEMV.exe.config
+C:\workspace\VS\cpintegracion\cpIntegracionEMV\bin\Release\cpIntegracionEMV.exe
+C:\workspace\VS\cpintegracion\cpIntegracionEMV\bin\Release\cpIntegracionEMV.pdb
+C:\workspace\VS\cpintegracion\cpIntegracionEMV\obj\Release\cpIntegracionEMV.Form1.resources
+C:\workspace\VS\cpintegracion\cpIntegracionEMV\obj\Release\cpIntegracionEMV.Properties.Resources.resources
+C:\workspace\VS\cpintegracion\cpIntegracionEMV\obj\Release\cpIntegracionEMV.csproj.GenerateResource.Cache
+C:\workspace\VS\cpintegracion\cpIntegracionEMV\obj\Release\cpIntegracionEMV.exe
+C:\workspace\VS\cpintegracion\cpIntegracionEMV\obj\Release\cpIntegracionEMV.pdb

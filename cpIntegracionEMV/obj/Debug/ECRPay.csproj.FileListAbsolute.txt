@@ -1,0 +1,9 @@
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\bin\Debug\ECRPay.exe.config
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\bin\Debug\ECRPay.exe
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\bin\Debug\ECRPay.pdb
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.Form1.resources
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.Properties.Resources.resources
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.csproj.GenerateResource.Cache
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.exe
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.pdb
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.csprojResolveAssemblyReference.cache

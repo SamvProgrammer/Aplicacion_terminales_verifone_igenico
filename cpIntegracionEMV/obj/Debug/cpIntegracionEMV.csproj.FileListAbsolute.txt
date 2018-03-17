@@ -1,0 +1,36 @@
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\bin\Debug\ECRPay.exe.config
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\bin\Debug\ECRPay.exe
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\bin\Debug\ECRPay.pdb
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\cpIntegracionEMV.csprojResolveAssemblyReference.cache
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.Properties.Resources.resources
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\cpIntegracionEMV.csproj.GenerateResource.Cache
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.exe
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\ECRPay.pdb
+C:\workspace\VS\ECRPay\ECRPay\ECRPay\obj\Debug\cpIntegracionEMV.Form1.resources
+C:\workspace\VS\ECRPay\ECRPay\cpIntegracionEMV\bin\Debug\ECRPay.exe.config
+C:\workspace\VS\ECRPay\ECRPay\cpIntegracionEMV\obj\Debug\ECRPay.exe
+C:\workspace\VS\ECRPay\ECRPay\cpIntegracionEMV\obj\Debug\ECRPay.pdb
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\bin\Debug\cpIntegracionEMV.dll.config
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\bin\Debug\cpIntegracionEMV.dll
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\bin\Debug\cpIntegracionEMV.pdb
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\bin\Debug\cpIntegracionEMV.tlb
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.csprojResolveAssemblyReference.cache
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.frmTest.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.Properties.Resources.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmActualizando.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmAvisoPinPad.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmCapacidadTouch.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmConversorDCC.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmCsvAMEX.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmCupones.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmDCC.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmDownload.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmDownloadCarga.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmFirmaenPanel.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmFirmaPanel.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmMoneda.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmPlanPagosAfis.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.UI.frmVtaSrvSeleccionar.resources
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.csproj.GenerateResource.Cache
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.dll
+D:\Proyectos Desarrollo\PcPay\cpIntegracionEMV\trunk\cpIntegracionEMV\obj\Debug\cpIntegracionEMV.pdb
